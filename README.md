@@ -86,7 +86,7 @@ Market Intelligence & Stock Analytics Platform
 - Market Intelligence Dashboard
 - Portfolio Monitoring
 - Watchlist Management
-# Contact
+
 
 GitHub: https://github.com/Navin10101010101
 <img width="1920" height="1007" alt="image" src="https://github.com/user-attachments/assets/8e4b70d5-4b1a-4483-bcd0-97012c4cd0f2" />
@@ -107,3 +107,8 @@ GitHub: https://github.com/Navin10101010101
 - Created stock screening and ranking systems using multiple analytical factors
 - Developed FastAPI backend services and React-based user interface
 - Implemented real-time market monitoring and analytics pipelines
+
+## Links
+
+- Website: https://signalbazaar.in
+- GitHub: https://github.com/Navin10101010101
