@@ -126,5 +126,14 @@ GitHub: https://github.com/Navin10101010101
 <img width="1916" height="973" alt="image" src="https://github.com/user-attachments/assets/504f0a7a-f700-48e3-8067-687056dcea03" />
 <img width="1905" height="945" alt="image" src="https://github.com/user-attachments/assets/40611e38-6c24-4dc3-ad92-4630312265db" />
 
+## Project Highlights
 
+### SignalBazaar
+
+- Built a real-time stock market analytics platform
+- Integrated Fyers API for market data collection
+- Designed MongoDB-based data storage architecture
+- Developed technical indicator engine (RSI, MACD, EMA)
+- Implemented stock screening and ranking workflows
+- Built FastAPI backend and React frontend
 
