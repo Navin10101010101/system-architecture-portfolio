@@ -17,7 +17,7 @@ Backend Developer focused on:
 
 ## SignalBazaar
 
-Stock Market Analytics Platform
+Market Intelligence & Stock Analytics Platform
 
 ### Technologies
 
@@ -27,97 +27,65 @@ Stock Market Analytics Platform
 - React
 - Fyers API
 
-### Key Features
+### Core Analytics Engine
 
-- Daily Market Data Collection
-- Technical Indicator Engine
-- RSI Analysis
-- MACD Analysis
-- EMA Analysis
-- Stock Screening
-- Market Trend Detection
+#### Technical Indicators
 
-### Architecture
+- RSI
+- MACD
+- EMA (5, 20, 50, 100, 200)
+- Trend Analysis
+- Momentum Analysis
 
-```text
-Fyers API
-    ↓
-Data Collector
-    ↓
-MongoDB
-    ↓
-Indicator Engine
-    ↓
-Signal Engine
-    ↓
-Web Dashboard
-```
+#### Price Action Analysis
 
----
+- Support & Resistance Detection
+- Breakout Detection
+- Trend Continuation Analysis
+- Pullback Identification
 
-## DreamHome
+#### Volume Analytics
 
-Property Listing Platform
+- Relative Volume Analysis
+- Volume Breakout Detection
+- Volume Trend Analysis
+- Unusual Activity Detection
 
-### Technologies
+#### Candlestick Pattern Recognition
 
-- React
-- FastAPI
-- MongoDB
+- Bullish Marubozu
+- Bearish Marubozu
+- Engulfing Patterns
+- Hammer
+- Shooting Star
+- Doji
+- Multiple Candlestick Structures
 
-### Features
+#### Chart Pattern Recognition
 
-- Property Listing
-- Property Search
-- User Management
+- Triangle Patterns
+- Double Top
+- Double Bottom
+- Breakout Structures
+- Trend Channel Analysis
 
----
+#### Market Screening
 
-# Technical Skills
+- Momentum Stocks
+- Volume Breakouts
+- Technical Setups
+- Trend-Based Screening
+- Multi-factor Stock Ranking
 
-## Languages
+### Platform Capabilities
 
-- Python
-- JavaScript
-
-## Backend
-
-- FastAPI
-- REST API Development
-
-## Databases
-
-- MongoDB
-- SQL
-
-## Tools
-
-- Git
-- GitHub
-- VS Code
-
----
-
-# System Design
-
-## Real-Time Data Pipeline
-
-```text
-Market Feed
-    ↓
-Data Processing
-    ↓
-Database Storage
-    ↓
-Indicator Calculation
-    ↓
-Signal Generation
-    ↓
-Dashboard Visualization
-```
-
----
-
+- Historical Data Processing
+- Real-Time Market Monitoring
+- Technical Analysis Automation
+- Stock Ranking Engine
+- Market Intelligence Dashboard
+- Portfolio Monitoring
+- Watchlist Management
 # Contact
 
 GitHub: https://github.com/Navin10101010101
@@ -130,10 +98,12 @@ GitHub: https://github.com/Navin10101010101
 
 ### SignalBazaar
 
-- Built a real-time stock market analytics platform
-- Integrated Fyers API for market data collection
-- Designed MongoDB-based data storage architecture
-- Developed technical indicator engine (RSI, MACD, EMA)
-- Implemented stock screening and ranking workflows
-- Built FastAPI backend and React frontend
-
+- Built a market intelligence platform for stock discovery and analysis
+- Developed a modular analytics engine for technical, volume, and price action analysis
+- Implemented multiple technical indicators and trend-detection models
+- Built candlestick and chart pattern recognition workflows
+- Integrated Fyers API for market data collection and processing
+- Designed MongoDB-based data architecture for large-scale market datasets
+- Created stock screening and ranking systems using multiple analytical factors
+- Developed FastAPI backend services and React-based user interface
+- Implemented real-time market monitoring and analytics pipelines
